@@ -69,12 +69,11 @@ Swiggy_Restaurant_Market_Analytics/
 ├── 05_Dashboard/
 │
 ├── 06_Documentation/
-│   ├── README.md
 │   ├── BUSINESS_REQUIREMENTS.md
 │   └── INTERVIEW_GUIDE.md
 │
-└── 07_Insights/
-    └── BUSINESS_INSIGHTS.md
+└──  README.md
+   
 ```
 
 ---
